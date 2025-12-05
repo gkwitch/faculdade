@@ -8,6 +8,7 @@ int	main(void)
 	float	media;
 
 	media = 0;
+	i = 0;
 
 	while(1)
 	{
