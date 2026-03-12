@@ -1,0 +1,15 @@
+# Ignorar arquivos do Windows e OneDrive
+Thumbs.db
+desktop.ini
+~$*
+
+# Ignorar arquivos do IntelliJ
+.idea/
+*.iml
+out/
+
+# Ignorar arquivos pesados que você não quer no GitHub
+*.pdf
+*.docx
+*.one
+*.url
